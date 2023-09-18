@@ -1,0 +1,20 @@
+form {
+    width: 1500px;
+    height: 1500px;
+    margin: 0 auto;
+    padding: 50px;
+    background: #4199e2;
+  }
+  
+  label, input {
+    display: block;
+    margin-bottom: 30px;
+  }
+  
+  input[type="submit"] {
+    background: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
